@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "login": "user",
+            "email": "sbrezhnev@inbox.ru",
+            "password": "user"
+        },
+        {
+            "login": "admin",
+            "email": "sbrezhnev@inbox.ru",
+            "password": "admin"
+        }
+    ],
+    "cardstemplates": {
+        "files": [ ]
+    }
+}

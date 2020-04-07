@@ -1,0 +1,16 @@
+.login_button {
+    float: left;
+    color: #fff;
+}
+
+.login_button:hover {
+    color: #fff;
+}
+
+.nav_buttons {
+    margin-left: 5px;
+}
+
+.disabled_checkbox {
+    color: #999999
+}
